@@ -1,0 +1,7 @@
+10000张未带口罩和2202张已带口罩人脸图像数据集百度网盘下载，共32.8M
+链接：https://pan.baidu.com/s/1IYWVeZfyh-W2hxnyezjXkw 
+提取码：9w2v 
+解压后，放置于train_data下，子文件分别为neg和pos
+train_data/
+    ---neg/
+    ---pos/

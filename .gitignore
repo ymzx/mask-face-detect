@@ -1,0 +1,7 @@
+*/__pycache__
+.idea/
+__pycache__/
+train_data/neg
+train_data/pos
+
+
